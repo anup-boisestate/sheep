@@ -1,0 +1,2 @@
+# sheep
+The objective of this project is to implement a mini robot car that can move around on its own without running into any obstacles in its way. The car is controlled using an Arduino UNO (a digital microcontroller) and an ultrasonic sensor for detecting obstacles. This is a fairly simple implementation  where the algorithm is constantly checking the distance value of the closest object and makes a decision to turn left, right or 180 based on how far the car can go through each route.
